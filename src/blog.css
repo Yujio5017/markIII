@@ -1,0 +1,26 @@
+*{
+    font-size: 1.5vw;
+}
+h1{
+    font-size: 4vw;
+    font-weight: bold;
+}
+h3{
+    font-size: 2vw;
+    padding-bottom: 20px;
+}
+
+.cardText{
+    font-size: 1vw;
+}
+p{
+    font-weight: normal;
+    padding-bottom: 20px;
+}
+.projects{
+    color:rgb(105, 47, 151);
+}
+.rdy:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+}
